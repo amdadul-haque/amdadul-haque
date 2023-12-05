@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a company<br>👯 I’m looking to collaborate with a tech giant<br>🤝 I’m looking for help doing more projects<br>🌱 I’m currently learning Nodejs and MongoDB<br>💬 Ask me about React and Firebase<br>⚡ Fun fact  - lazy but smart
+🔭 I’m currently working on a company<br>👯 I’m looking to collaborate with a tech giant<br>🤝 I’m looking for help doing more projects<br>🌱 I’m currently learning Nodejs and MongoDB<br>💬 Ask me about React and Firebase<br>⚡ Fun fact  - lazy but lazy😁
 
 
 ## 🌐 Socials:
